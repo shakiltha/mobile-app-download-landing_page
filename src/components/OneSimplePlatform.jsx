@@ -24,9 +24,9 @@ const OneSimplePlatform = () => {
         </p>
       </div>
       <div className="xl:flex xl:gap-2 xl:my-4">
-        <div className="xl:w-1/3">
+        <div className="xl:w-1/3 xl:text-right">
           <div>
-            <img src={icon1} alt="" />
+            <img src={icon1} className="xl:ml-[27.5rem]" alt="" />
             <h5 className="font-bold text-xl lg:text-2xl">
               All-in-one toolkit
             </h5>
@@ -44,7 +44,7 @@ const OneSimplePlatform = () => {
             </p>
           </div>
           <div>
-            <img src={icon2} alt="" />
+            <img src={icon2} className="xl:ml-[27.5rem]" alt="" />
             <h5 className="font-bold text-xl lg:text-2xl">invoicing</h5>
             <p className="font-normal">
               Seamless invoicing is crucial for any business, and our platform
