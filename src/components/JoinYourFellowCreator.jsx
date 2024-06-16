@@ -38,8 +38,8 @@ const JoinYourFellowCreator = () => {
           <div className="w-[175px] border-2 rounded-full mx-auto my-5"></div>
           <div>
             <img src={profile1} alt="" />
-            <p className="font-bold">Lisa, Artisan Jewelry Maker </p>
-            <p className="font-normal">lisajewelry.com</p>
+            <p className="font-bold">Liam, Artisan Jewelry Maker </p>
+            <p className="font-normal">liamjewelry.com</p>
           </div>
         </div>
         <div className="w-[322px] border mx-auto shadow-xl p-2 my-4">
@@ -55,7 +55,7 @@ const JoinYourFellowCreator = () => {
           <div className="w-[175px] border-2 rounded-full mx-auto my-5"></div>
           <div>
             <img src={profile2} alt="" />
-            <p>David, E-book Author</p>
+            <p className="font-bold">David, E-book Author</p>
             <p>davidauthor.com</p>
           </div>
         </div>
@@ -73,8 +73,8 @@ const JoinYourFellowCreator = () => {
           <div className="w-[175px] border-2 rounded-full mx-auto my-5"></div>
           <div>
             <img src={profile3} alt="" />
-            <p>Sarah, Organic Soap Crafter</p>
-            <p>sarahsoapcrafter.com</p>
+            <p className="font-bold">Ethan, Organic Soap Crafter</p>
+            <p>ethansoapcrafter.com</p>
           </div>
         </div>
       </div>

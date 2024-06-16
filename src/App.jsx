@@ -5,7 +5,6 @@ import JoinYourFellowCreator from "./components/JoinYourFellowCreator";
 import MarketYourProducts from "./components/MarketYourProducts";
 import OneSimplePlatform from "./components/OneSimplePlatform";
 import SellYourProducts from "./components/SellYourProducts";
-import Testimonials from "./components/Testimonials";
 
 function App() {
   return (
@@ -16,7 +15,6 @@ function App() {
       <MarketYourProducts />
       <OneSimplePlatform />
       <JoinYourFellowCreator />
-      <Testimonials />
       <Footer />
     </div>
   );
