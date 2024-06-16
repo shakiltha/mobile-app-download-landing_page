@@ -1,8 +1,8 @@
 import screens from "../assets/Screens.png";
 const CreateYourStore = () => {
   return (
-    <div className="pt-[57rem] lg:pt-[40rem] xl:pt-[50rem] mx-2">
-      <section className="lg:flex lg:items-center lg:gap-4">
+    <div className="pt-[57rem] md:pt-[50rem] lg:pt-[40rem] xl:pt-[50rem] mx-1">
+      <section className="flex flex-col-reverse gap-4 lg:flex lg:flex-row lg:items-center lg:gap-4">
         <section className="lg:flex-1">
           <img src={screens} alt="" />
         </section>
