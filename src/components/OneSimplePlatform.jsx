@@ -6,8 +6,8 @@ import icon4 from "../assets/Icon-3.png";
 
 const OneSimplePlatform = () => {
   return (
-    <div className="manrope mt-6 mx-1">
-      <div className="text-center">
+    <div className="manrope mt-6 xl:my-10 mx-1">
+      <div className="text-center xl:my-10">
         <p className="font-medium">Manage your Business</p>
         <h4 className="font-semibold text-2xl lg:text-3xl">
           One simple platform

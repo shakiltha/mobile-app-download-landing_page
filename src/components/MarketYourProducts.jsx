@@ -7,7 +7,7 @@ import icon4 from "../assets/Icon-7.png";
 const MarketYourProducts = () => {
   return (
     <div className="manrope mt-6 mx-1">
-      <div className="text-center">
+      <div className="text-center xl:my-10">
         <p className="font-medium">Grow your Business</p>
         <h4 className="font-semibold text-2xl lg:text-3xl">
           Market your products
