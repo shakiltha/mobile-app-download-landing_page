@@ -18,9 +18,9 @@ const MarketYourProducts = () => {
         </p>
       </div>
       <div className="xl:flex xl:gap-2 xl:my-4">
-        <div className="xl:w-1/3">
+        <div className="xl:w-1/3 xl:text-right">
           <div>
-            <img src={icon1} alt="" />
+            <img src={icon1} className="xl:ml-[27.5rem]" alt="" />
             <h5 className="font-bold text-xl lg:text-2xl">E-mail Marketing</h5>
             <p className="font-normal">
               E-mail marketing remains a powerful tool in your e-commerce
@@ -37,7 +37,7 @@ const MarketYourProducts = () => {
             </p>
           </div>
           <div>
-            <img src={icon2} alt="" />
+            <img src={icon2} className="xl:ml-[27.5rem]" alt="" />
             <h5 className="font-bold text-xl lg:text-2xl">Lead Magnet</h5>
             <p className="font-normal">
               A lead magnet is a valuable piece of content you offer for free in
